@@ -1,6 +1,6 @@
 # 🐚 Minishell
 
-Mini reproduction d’un shell Unix réalisée dans le cadre de :contentReference[oaicite:0]{index=0}.
+Mini reproduction d’un shell Unix réalisée dans le cadre de 42 Perpignan.
 
 ## 🚀 Features
 - Exécution de commandes  
